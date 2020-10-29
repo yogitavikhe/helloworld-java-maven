@@ -1,6 +1,6 @@
 
 This dad;ad;s 
-This is my fixed for DevOpsSchool.com....Fix for Task
+This is my fixed for DevOpsSchool.com.Fix for Task
 For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 # this is ddd a fix og sdfljflld fjldsfjdsjfkdl;sdasdasdasd
 # ========================NEXUS==============================
